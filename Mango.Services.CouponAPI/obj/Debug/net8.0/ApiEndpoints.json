@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "Mango.Services.CouponAPI.Data.ResponseDto",
+        "Type": "Mango.Services.CouponAPI.Models.Dto.ResponseDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -35,7 +35,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Mango.Services.CouponAPI.Data.ResponseDto",
+        "Type": "Mango.Services.CouponAPI.Models.Dto.ResponseDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Mango.Services.CouponAPI.Data.ResponseDto",
+        "Type": "Mango.Services.CouponAPI.Models.Dto.ResponseDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -87,7 +87,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Mango.Services.CouponAPI.Data.ResponseDto",
+        "Type": "Mango.Services.CouponAPI.Models.Dto.ResponseDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -113,7 +113,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Mango.Services.CouponAPI.Data.ResponseDto",
+        "Type": "Mango.Services.CouponAPI.Models.Dto.ResponseDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -139,7 +139,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Mango.Services.CouponAPI.Data.ResponseDto",
+        "Type": "Mango.Services.CouponAPI.Models.Dto.ResponseDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
