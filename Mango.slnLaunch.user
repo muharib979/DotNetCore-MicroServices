@@ -4,11 +4,18 @@
     "Projects": [
       {
         "Path": "Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "http"
       },
       {
         "Path": "Mango.Web\\Mango.Web.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
       }
     ]
   }
